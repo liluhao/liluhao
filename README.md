@@ -18,8 +18,8 @@ Welcome to my page!
 
 **About me**
 
-- 🔭 I'm a Golang development engineer working in **China, Henan**
-- 🌱 I'm currently learning Vue and Typescript
+- 🔭 I'm a **Golang** development engineer 
+- 🌱 I'm currently learning microservicest  
 - 📖 I am currently reading Professional JavaScript for Web Developers by Matt Frisbie
 - 📝 I regulary write technical articles for <a href="https://blog.csdn.net/Superman_peng">csdn</a>
 - 💬 ask me about anything, i am happy to help
