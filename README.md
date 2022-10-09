@@ -20,10 +20,10 @@ Welcome to my page!
 
 - 🔭 I'm a **Golang** development engineer 
 - 🌱 I'm currently learning **microservicest**  
-- 📖 I am currently reading 《Design and implementation of the go language》
-- 📝 I regulary write technical articles for <a href="https://blog.csdn.net/Superman_peng">csdn</a>
+- 📖 I am currently reading 《Design And Implementation Of The Go Language》
+- 📝 I regulary write technical articles for <a href="https://blog.csdn.net/weixin_52690231">csdn</a>
 - 💬 ask me about anything, i am happy to help
-- ⚡ My hobbies are dancing and running
+- ⚡ My hobbies are playing guitar and playing football
 
 **Things I code with**
 
