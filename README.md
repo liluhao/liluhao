@@ -58,7 +58,7 @@
 
 <div align="center">
 <a href="https://github.com/liluhao/admin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liluhao&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liluhao&repo=admin&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 
