@@ -9,6 +9,9 @@
 	</a> •  
 	<a href="https://www.facebook.com/luhao.li.5">
 	  <img alt="liluhao's LinkedIN" width="22px" src="https://mdmdmdmd.oss-cn-beijing.aliyuncs.com/img/facebook.svg" />
+	</a>•  
+	<a href="https://www.instagram.com/daehtrallh">
+	  <img alt="liluhao's LinkedIN" width="22px" src="https://mdmdmdmd.oss-cn-beijing.aliyuncs.com/img/instagram.svg" />
 	</a>
 </p>
 
