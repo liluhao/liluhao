@@ -7,8 +7,8 @@
 	<a href="https://twitter.com/LKey83413558">
 	  <img alt="liluhao's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 	</a> •  
-	<a href="https://www.linkedin.com/in/missy-peng-7b0028212/">
-	  <img alt="liluhao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+	<a href="https://www.facebook.com/luhao.li.5">
+	  <img alt="liluhao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 	</a>
 </p>
 
