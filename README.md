@@ -8,7 +8,7 @@
 	  <img alt="liluhao's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 	</a> •  
 	<a href="https://www.facebook.com/luhao.li.5">
-	  <img alt="liluhao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+	  <img alt="liluhao's LinkedIN" width="22px" src="http://www.w3.org/2000/svg" />
 	</a>
 </p>
 
