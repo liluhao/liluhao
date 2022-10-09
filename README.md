@@ -2,13 +2,13 @@
 
 <p align="center">
 	<a href="https://github.com/liluhao">
-	  <img alt="MissyPeng's github" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg" />
+	  <img alt="liluhao's github" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg" />
 	</a> • 
 	<a href="https://twitter.com/LKey83413558">
-	  <img alt="MissyPeng's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+	  <img alt="liluhao's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 	</a> •  
 	<a href="https://www.linkedin.com/in/missy-peng-7b0028212/">
-	  <img alt="MissyPeng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+	  <img alt="liluhao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 	</a>
 </p>
 
@@ -18,7 +18,7 @@ Welcome to my page!
 
 **About me**
 
-- 🔭 I'm a Front-end developer working in **China, Henan**
+- 🔭 I'm a Golang development engineer working in **China, Henan**
 - 🌱 I'm currently learning Vue and Typescript
 - 📖 I am currently reading Professional JavaScript for Web Developers by Matt Frisbie
 - 📝 I regulary write technical articles for <a href="https://blog.csdn.net/Superman_peng">csdn</a>
