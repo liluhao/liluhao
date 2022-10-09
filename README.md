@@ -15,6 +15,9 @@
 	</a>•  
 	<a href="https://blog.csdn.net/weixin_52690231">
 	  <img alt="liluhao's LinkedIN" width="22px" src="https://mdmdmdmd.oss-cn-beijing.aliyuncs.com/img/csdn.svg" />
+	</a>•  
+	<a href="https://www.youtube.com/channel/UCaLz6e2sX_Brqx9UZv5s1Kw">
+	  <img alt="liluhao's LinkedIN" width="22px" src="https://mdmdmdmd.oss-cn-beijing.aliyuncs.com/img/Youtube.svg" />
 	</a>
 </p>
 
