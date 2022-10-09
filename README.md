@@ -31,13 +31,7 @@
 - 💬 ask me about anything, i am happy to help
 - ⚡ My hobbies are playing guitar and playing football
 
-**Things I code with**
-
-<p>
-	<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff"/>
-</p>
-
-💪 正在学习: 
+🧰**Things I code with**
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -49,8 +43,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
-🧠 计划学习:
-
 &emsp;&emsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
@@ -61,7 +53,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-🧰 常用的工具:
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
