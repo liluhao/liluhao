@@ -64,7 +64,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liluhaog&theme=radical&bg_color=bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 🧠**My latest blog posts**
-**🧠My latest blog posts**
 
 - [GoLang之go常用的并发模型](https://blog.csdn.net/weixin_52690231/article/details/125314114?spm=1001.2014.3001.5501)
 - [GoLang设计模式之单例模式](https://blog.csdn.net/weixin_52690231/article/details/123895446?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166201708916781790751129%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=166201708916781790751129&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-1-123895446-null-null.nonecase&utm_term=%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F&spm=1018.2226.3001.4450)
