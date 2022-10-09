@@ -12,6 +12,9 @@
 	</a>•  
 	<a href="https://www.instagram.com/daehtrallh">
 	  <img alt="liluhao's LinkedIN" width="22px" src="https://mdmdmdmd.oss-cn-beijing.aliyuncs.com/img/instagram.svg" />
+	</a>•  
+	<a href="https://blog.csdn.net/weixin_52690231">
+	  <img alt="liluhao's LinkedIN" width="22px" src="https://mdmdmdmd.oss-cn-beijing.aliyuncs.com/img/csdn.svg" />
 	</a>
 </p>
 
