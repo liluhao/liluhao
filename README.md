@@ -19,8 +19,8 @@ Welcome to my page!
 **About me**
 
 - 🔭 I'm a **Golang** development engineer 
-- 🌱 I'm currently learning microservicest  
-- 📖 I am currently reading Professional JavaScript for Web Developers by Matt Frisbie
+- 🌱 I'm currently learning **microservicest**  
+- 📖 I am currently reading 《Design and implementation of the go language》
 - 📝 I regulary write technical articles for <a href="https://blog.csdn.net/Superman_peng">csdn</a>
 - 💬 ask me about anything, i am happy to help
 - ⚡ My hobbies are dancing and running
